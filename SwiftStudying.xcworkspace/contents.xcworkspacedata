@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Array/Array.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:EnumAndStruct/EnumAndStruct.xcodeproj">
    </FileRef>
    <FileRef
