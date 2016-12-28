@@ -2,9 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:EnumAndStruct/EnumAndStruct.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:funcAndClosure/funcAndClosure.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:SwiftLearning.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:InstanceAndClass/InstanceAndClass.xcodeproj">
    </FileRef>
 </Workspace>
