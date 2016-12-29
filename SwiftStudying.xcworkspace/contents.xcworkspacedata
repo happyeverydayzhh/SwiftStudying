@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:closure/closure.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:function/function.xcodeproj">
    </FileRef>
    <FileRef
