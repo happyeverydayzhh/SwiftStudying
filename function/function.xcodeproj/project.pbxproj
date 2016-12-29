@@ -302,6 +302,7 @@
 				DAF7BEDE1E14FF25000BE730 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
